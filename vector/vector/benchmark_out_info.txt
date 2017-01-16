@@ -1,0 +1,42 @@
+stl_compatible::vector, stl_compatible::allocator          50       26551 mcs/op
+stl_compatible::vector, stl_compatible::allocator          50       26118 mcs/op
+stl_compatible::vector, std::allocator          50       26012 mcs/op
+std::vector, std::allocator                  10      105946 mcs/op
+std::vector, stl_compatible::allocator           5      227816 mcs/op
+std::vector, stl_compatible::allocator           5      225301 mcs/op
+11.251s
+stl_compatible::vector, stl_compatible::allocator          50       26019 mcs/op
+stl_compatible::vector, stl_compatible::allocator          50       26089 mcs/op
+stl_compatible::vector, std::allocator          50       26041 mcs/op
+std::vector, std::allocator                  10      103949 mcs/op
+std::vector, stl_compatible::allocator           5      222642 mcs/op
+std::vector, stl_compatible::allocator           5      221971 mcs/op
+11.118s
+stl_compatible::vector, stl_compatible::allocator          50       26237 mcs/op
+stl_compatible::vector, stl_compatible::allocator          50       26153 mcs/op
+stl_compatible::vector, std::allocator          50       26190 mcs/op
+std::vector, std::allocator                  10      104009 mcs/op
+std::vector, stl_compatible::allocator           5      223794 mcs/op
+std::vector, stl_compatible::allocator           5      223261 mcs/op
+11.179s
+stl_compatible::vector, stl_compatible::allocator          50       26122 mcs/op
+stl_compatible::vector, stl_compatible::allocator          50       26261 mcs/op
+stl_compatible::vector, std::allocator          50       26299 mcs/op
+std::vector, std::allocator                  10      104075 mcs/op
+std::vector, stl_compatible::allocator           5      225018 mcs/op
+std::vector, stl_compatible::allocator           5      223285 mcs/op
+11.131s
+stl_compatible::vector, stl_compatible::allocator          50       29666 mcs/op
+stl_compatible::vector, stl_compatible::allocator          50       27087 mcs/op
+stl_compatible::vector, std::allocator          50       27252 mcs/op
+std::vector, std::allocator                  10      109666 mcs/op
+std::vector, stl_compatible::allocator           5      234653 mcs/op
+std::vector, stl_compatible::allocator           5      231205 mcs/op
+11.811s
+stl_compatible::vector, stl_compatible::allocator          50       26528 mcs/op
+stl_compatible::vector, stl_compatible::allocator          50       26043 mcs/op
+stl_compatible::vector, std::allocator          50       25930 mcs/op
+std::vector, std::allocator                  10      104361 mcs/op
+std::vector, stl_compatible::allocator           5      223128 mcs/op
+std::vector, stl_compatible::allocator           5      222130 mcs/op
+11.157s
